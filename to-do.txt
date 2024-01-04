@@ -1,0 +1,102 @@
+Basic Level
+
+    Navbar:
+Description: Horizontal bar for navigation links.
+Variants: Static, sticky (fixed on scroll), with dropdowns.
+
+Footer:
+Description: Bottom section of the website containing contact info, sitemap, social links.
+Variants: Minimalist, detailed with columns, with newsletter signup.
+
+Button:
+Description: Clickable elements for actions.
+Variants: Flat, raised, with icons, animated.
+
+Text Input Fields:
+Description: Fields for user input.
+Variants: With validation, with icons, password fields.
+
+Headings and Typography:
+Description: Styled text elements.
+Variants: Different heading levels (h1, h2, etc.), paragraph styles.
+
+Intermediate Level
+
+
+Image Slider/Carousel:
+Description: Rotating images or content.
+Variants: Automatic, manual controls, with thumbnails.
+
+
+Card Components:
+Description: Containers for a combination of text, images, and actions.
+Variants: Product cards, user profile cards, news article cards.
+
+
+Modals/Pop-ups:
+Description: Overlay windows for additional information or actions.
+Variants: Alert dialogs, confirmations, custom forms.
+
+
+Tabs:
+Description: Sections of content accessible by clicking different tabs.
+Variants: Horizontal, vertical, animated.
+
+
+Accordions:
+Description: Collapsible sections for displaying content.
+Variants: Simple, nested, with icons.
+
+Advanced Level
+
+
+Form Layouts:
+Description: Structures for input fields, labels, and buttons.
+Variants: Single-column, multi-column, with advanced field types.
+
+
+Navigation Menus:
+Description: Complex navigation systems.
+Variants: Sidebar menus, hamburger menus, mega menus.
+
+
+Data Tables:
+Description: Displaying data in table format.
+Variants: Sortable columns, searchable, with pagination.
+
+
+Custom Scrollbars:
+Description: Styled scrollbars for overflow content.
+Variants: Minimalist, with hover effects, colored.
+
+
+Progress Bars/Loaders:
+Description: Indicators for loading or progress status.
+Variants: Linear, circular, animated.
+
+
+Expert Level
+Dynamic Forms with Validation:
+Description: Forms with real-time data validation.
+Variants: Client-side validation, server-side validation feedback.
+
+
+Interactive Charts and Graphs:
+Description: Visual representation of data.
+Variants: Line charts, bar graphs, pie charts, interactive dashboards.
+
+
+
+Parallax Scrolling Effects:
+Description: Visual effect where background content moves at a different speed than foreground content.
+Variants: Simple parallax, multi-layered, with animations.
+
+
+Complex Animations and Transitions:
+Description: Advanced visual effects for user interactions.
+Variants: Hover animations, page transitions, animated illustrations.
+
+
+Single Page Applications (SPA) Architecture:
+Description: Web applications that load a single HTML page and dynamically update content as needed.
+Variants: React-based SPAs, Vue.js SPAs, Angular SPAs.
